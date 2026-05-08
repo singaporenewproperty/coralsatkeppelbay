@@ -1,0 +1,9 @@
+# Corals at Keppel Bay
+
+> Corals at Keppel Bay — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/coralsatkeppelbay/
+
+## Pages
+
+- [Corals at Keppel Bay](https://singaporenewproperty.github.io/coralsatkeppelbay/): Corals at Keppel Bay property information.
